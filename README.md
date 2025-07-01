@@ -168,6 +168,8 @@ The application uses the following tables:
 
 ## 📁 Project Structure
 
+
+
 \`\`\`
 carecompanion/
 ├── app/                          # Next.js App Router pages
@@ -186,6 +188,9 @@ carecompanion/
 ├── public/                       # Static assets
 └── README.md                     # Project documentation
 \`\`\`
+
+
+
 
 ## 🔧 Available Scripts
 
