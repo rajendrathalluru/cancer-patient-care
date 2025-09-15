@@ -239,20 +239,7 @@ We welcome contributions to CareCompanion! Here's how you can help:
 - Ensure responsive design
 - Follow accessibility guidelines
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. **Check the documentation** in this README
-2. **Search existing issues** on GitHub
-3. **Create a new issue** with detailed information
-4. **Join our community** discussions
-
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Cancer patients and caregivers** who inspired this project
 - **Healthcare professionals** who provided valuable feedback
