@@ -6,20 +6,20 @@ A comprehensive web application designed to help cancer patients manage their tr
 
 ## ✨ Features
 
-### 📊 **Dashboard Overview**
+###  **Dashboard Overview**
 - Treatment progress tracking with visual indicators
 - Medication adherence monitoring
 - Upcoming appointments summary
 - Symptom severity overview
 - Quick access to all features
 
-### 💊 **Medication Management**
+###  **Medication Management**
 - Add and track medications with dosage and frequency
 - Set medication reminders
 - Mark medications as taken, missed, or pending
 - View medication history and adherence statistics
 
-### 📅 **Appointment Scheduling**
+###  **Appointment Scheduling**
 - Interactive calendar view of appointments
 - Schedule new appointments with healthcare providers
 - Support for both virtual and in-person appointments
@@ -31,30 +31,30 @@ A comprehensive web application designed to help cancer patients manage their tr
 - Track symptom patterns over time
 - Export symptom reports for healthcare providers
 
-### 📝 **Personal Journal**
+###  **Personal Journal**
 - Record daily thoughts and experiences
 - Track emotional well-being
 - Private and secure journal entries
 - Search and filter journal entries
 
-### 👥 **Care Team Management**
+### **Care Team Management**
 - Maintain contact information for healthcare providers
 - Track different specialists and their roles
 - Quick access to care team contacts
 
-### 🔔 **Notification Settings**
+###  **Notification Settings**
 - Customizable notification preferences
 - Email, push, and SMS notification options
 - Medication reminders
 - Appointment alerts
 
-### 📚 **Educational Resources**
+###  **Educational Resources**
 - Curated cancer treatment information
 - Nutrition and wellness guides
 - Support group connections
 - Educational materials by category
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -105,14 +105,14 @@ Before running this application, make sure you have the following installed:
    
    Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
 
-### 🔐 Demo Credentials
+###  Demo Credentials
 
 For testing purposes, use these pre-configured credentials:
 
 - **Email:** `sarah.williams@example.com`
 - **Password:** `password123`
 
-## 🗄️ Database Setup (Optional)
+##  Database Setup (Optional)
 
 The application works with mock data by default, but you can connect a real database for persistent storage.
 
@@ -145,7 +145,7 @@ The application uses the following tables:
 - `care_team` - Healthcare provider contacts
 - `notification_settings` - User notification preferences
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Frontend
 - **Next.js 14** - React framework with App Router
@@ -166,40 +166,16 @@ The application uses the following tables:
 - **Prettier** - Code formatting
 - **TypeScript** - Static type checking
 
-## 📁 Project Structure
 
 
-
-\`\`\`
-carecompanion/
-├── app/                          # Next.js App Router pages
-│   ├── api/                      # API routes
-│   ├── dashboard/                # Dashboard pages
-│   ├── login/                    # Authentication pages
-│   └── globals.css               # Global styles
-├── components/                   # Reusable React components
-│   ├── ui/                       # Base UI components
-│   └── [feature-components]      # Feature-specific components
-├── lib/                          # Utility functions and configurations
-│   ├── auth.ts                   # Authentication logic
-│   ├── database.ts               # Database connection
-│   └── types.ts                  # TypeScript type definitions
-├── scripts/                      # Database migration scripts
-├── public/                       # Static assets
-└── README.md                     # Project documentation
-\`\`\`
-
-
-
-
-## 🔧 Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## 🌟 Key Features Explained
+##  Key Features Explained
 
 ### Authentication System
 - Cookie-based session management
@@ -225,7 +201,7 @@ carecompanion/
 - Optimized images and assets
 - Efficient data fetching
 
-## 🚀 Deployment
+##  Deployment
 
 ### Deploy to Vercel (Recommended)
 
@@ -291,26 +267,6 @@ If you encounter any issues or have questions:
 - **Open source community** for the amazing tools and libraries
 - **Vercel** for hosting and deployment platform
 - **Neon** for database infrastructure
-
-## 🔮 Roadmap
-
-### Upcoming Features
-- [ ] Mobile app (React Native)
-- [ ] Telemedicine integration
-- [ ] AI-powered symptom insights
-- [ ] Family member access
-- [ ] Insurance integration
-- [ ] Medication interaction checker
-- [ ] Wearable device integration
-- [ ] Multi-language support
-
-### Long-term Goals
-- [ ] Clinical trial matching
-- [ ] Research data contribution
-- [ ] Advanced analytics dashboard
-- [ ] Integration with EHR systems
-- [ ] Peer support network
-- [ ] Gamification features
 
 ---
 
