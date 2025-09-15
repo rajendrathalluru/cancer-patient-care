@@ -85,14 +85,6 @@ Before running this application, make sure you have the following installed:
    \`\`\`
    
    Edit `.env.local` with your configuration:
-   \`\`\`env
-   # Development
-   NODE_ENV=development
-
-   # Database Configuration (Optional - leave empty to use mock data)
-   # DATABASE_URL=postgresql://username:password@host:port/database
-   # POSTGRES_URL=postgresql://username:password@host:port/database
-   \`\`\`
 
 4. **Run the development server**
    \`\`\`bash
